@@ -1,6 +1,5 @@
-##  <\? ƒ(null)= SemihCebraiL (); ?>  
+#  <\? ƒ(🧠)= SemihCebraiL (); ?>  
   
-
 <a href="https://twitter.com/SemihCebraiL" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -31,17 +30,10 @@
 <a href="https://medium.com/SemihCebraiL" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+
   
-
-
-
-### beam me up 🖖    
-🧠Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet viverra dui, eu posuere ipsum. Sed rutrum ligula in ex iaculis varius. Nulla pellentesque libero quis semper varius. Aenean finibus, enim efficitur dictum gravida, lorem risus sollicitudin odio, a convallis metus lectus quis ex. Duis tincidunt est quis felis semper luctus sed eu elit. Fusce sit amet mollis neque. Fusce molestie ipsum id ante rhoncus mollis.
-
-# SemihCebraiL
-### Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500
-
-⤷ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the 
+## beam me up 🖖
+While studying electrical electronics in high school, I started with html and started programming with visual basic. On the other hand, I learned pic programming thanks to school. I started learning php and database before university and then added python and javascript languages.
 
  <a aligh="left" href="https://semihcebrail.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:iam@semihcebrail.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/SemihCebraiL" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/SemihCebraiL" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> <a aligh="left" href="https://www.youtube.com/SemihCebraiL." target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/youtube.svg" alt="YouTube" width="22" height="22" /></a> <a aligh="left" href="https://discord.com/user/SemihCebraiL" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/discord.svg" alt="Discord" width="22" height="22" /></a>  
 
