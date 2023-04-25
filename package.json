@@ -1,0 +1,25 @@
+{
+  "name": "semihcebrail",
+  "version": "1.0.0",
+  "description": "personal sync toolz",
+  "main": "index.js",
+  "scripts": {
+    "test": "node deneme.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semihcebrail/SemihCebraiL.git"
+  },
+  "keywords": [
+    "sync",
+    "personal",
+    "toolz",
+    "hacking"
+  ],
+  "author": "SemihCebraiL",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/semihcebrail/SemihCebraiL/issues"
+  },
+  "homepage": "https://github.com/semihcebrail/SemihCebraiL#readme"
+}
