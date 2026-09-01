@@ -1,10 +1,10 @@
-# <\? SemihCebraiL.(dev); ?>
+# <\? SemihCebraiL.(dev){software developer}; ?>
 what if it isn't?!. | ya öyle değilse?!.
 ## once upon a time 👽🧬🧪
 while studying in technical high school depertment of electronic, i started with html and continued programming with visual basic. on the other hand, learnt pic programming thanks to technical high school. during my high school internship, i wrote an inventory and device tracking program for technical service. i started learning php before university and then added python and javascript languages.
 ## ulam
 ```
-software developer, php, python, sql, javascript, xhtml, exploit, scripting, open-source, free software
+#software-developer, #php, #python, #sql, #javascript, #scripting, #exploit
 ```
 ## permalink
 <a href="https://semihcebrail.dev" target="_blank">
