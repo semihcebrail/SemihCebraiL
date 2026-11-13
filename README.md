@@ -1,8 +1,9 @@
 # <\? SemihCebraiL.(dev){software developer}; ?>
 what if it isn't?!. | ya öyle değilse?!.
-👽🧬🧪
+👽🧬🧪🖖🏻</>E=mc²∑∞ⁿ⁼⁰
 ## once upon a time
-while studying in technical high school department of electronic, i started with html and continued programming with visual basic. on the other hand, learnt pic programming thanks to technical high school. during my high school internship, i wrote an inventory and device tracking program for technical service. i started learning php before university and then added python and javascript languages.
+i am Semih KILIÇ, also known as SemihCebraiL. when i studying in technical high school department of electronic, i started with #html and continued #programming with #visualbasic. on the other hand, learnt #pic-programming thanks to technical high school. during my high school internship, i wrote an inventory and device tracking #dektop-program for technical service. i started learning #php before university and then added #python and #javascript languages.
+#software #developer #ethic #opensource #fediverse #wordpress
 ## ulam
 ```
 #developer #software #ethic #opensource #fediverse
